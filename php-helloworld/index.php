@@ -1,3 +1,3 @@
 <?php
-print "Hello, a change is in the air "\n";
+print "Hello, a change is in the air \n";
 ?>
